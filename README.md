@@ -8,9 +8,9 @@ The point of the project was to develop a website that assists users with findin
 
 ## Pictures
 
-<img align="center" width="880" height="550" hspace="20" src="https://user-images.githubusercontent.com/33875832/57878632-7163e180-77e8-11e9-979a-c8d1222aace2.png">
+<img align="center" width="880" height="520" hspace="20" src="https://user-images.githubusercontent.com/33875832/57878632-7163e180-77e8-11e9-979a-c8d1222aace2.png">
 
-<img align="center" width="880" height="550" hspace="20" src="https://user-images.githubusercontent.com/33875832/57878632-7163e180-77e8-11e9-979a-c8d1222aace2.png">
+<img align="center" width="880" height="520" hspace="20" src="https://user-images.githubusercontent.com/33875832/57878632-7163e180-77e8-11e9-979a-c8d1222aace2.png">
 
 ## Files
 
