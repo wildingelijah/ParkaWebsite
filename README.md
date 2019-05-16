@@ -1,6 +1,6 @@
 # Introduction
 
-This is one of the projects I am most proud of. It is a fully functioning parking spot locator website, named Parka. I developed all aspects of this project using CSS, HTML, JavaScript and SQL databases. The project was then hosted live with AWS (Amazon Web Services). This website was developed as part of a multi-stage project for a course solely focusing on Website Design & Interfacin and throughout this course I got an excellent chance to become well acquainted with all of the previously mentioned means of development. 
+This is one of the projects I am most proud of. It is a fully functioning parking spot locator website, named Parka. I developed all aspects of this project using CSS, HTML, PHP, JavaScript and SQL databases. The project was then hosted live with AWS (Amazon Web Services). This website was developed as part of a multi-stage project for a course solely focusing on Website Design & Interfacin and throughout this course I got an excellent chance to become well acquainted with all of the previously mentioned means of development. 
 
 ## About The Project
 
@@ -16,7 +16,7 @@ The point of the project was to develop a website that assists users with findin
 
 In order to access the file for this project please click "View on GitHub".
 
-However, these files are all the local files and hence will not have the same effect as when they were all hosted live through AWS. Hence I have included some pictures above to give an accurate representation as to the look and feel of the website.
+However, these files are all the local files (not being hosted on a server) and hence will not have the same effect as when they were all hosted live through AWS and working in coordination with each other. Hence I have included a couple pictures above to give an idea as to the look and feel of the website.
 
 If you would like to know more about the code or any other part of this project please feel free to ask me questions at: **elijahwilding@gmail.com**.
 
