@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/wildingelijah/ParkaWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+BLAH
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About The Project
 
-### Markdown
+Title: UnderGods  
+Genre: Strategy/4X  
+Developers: Elijah Wilding, Nathan Coit, Sullivan Stobo, Harrison Lau and Zack Palantzas.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are two main modes in our game: management mode and combat mode. Nathan and I were completely responsbile for everything surrounding management mode. Sully and Harri were responsible for combat mode while Zack did all of the art assets. We drew inspiration from the likes of Civilization, Fire Emblem and multiple other games under the same genre. 
 
-```markdown
-Syntax highlighted code block
+## Pictures
 
-# Header 1
-## Header 2
-### Header 3
+Coming soon!
 
-- Bulleted
-- List
+## Files
 
-1. Numbered
-2. List
+In order to access the files for this project please go to this link (the group github for the project):  
+[Project Files](https://github.com/NathanCoit/4GP6Capstone)
 
-**Bold** and _Italic_ and `Code` text
+## Back
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wildingelijah/ParkaWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Back to main page of portfolio](https://wildingelijah.github.io/)
