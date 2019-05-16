@@ -1,0 +1,263 @@
+
+/*This allows for padding and border to be included in box size */
+* {
+    box-sizing: border-box;
+}
+
+/*This formatting is for the general body of the pages*/
+body {
+    background-color: #f2f2f2; 
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*These are for the navigation bar. Overflow specifies how content clips.*/
+.navbar {
+    overflow: hidden;
+    background-color: #333333;
+    margin-bottom: 10px;
+}
+
+/*Refers to the child elements inside the navbar and their formatting.*/
+.navbar a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/*Styling when hovering over links in navbar*/
+.navbar a:hover {
+    background-color: black;
+    color: white;
+}
+
+/*Styling for active page in navbar*/
+.navbar a.active {
+    background-color:#d9d9d9;
+    color: black;
+}
+
+/*Header styling*/
+.header {
+    padding: 40px;
+    text-align: center;
+    background: #333333;
+    color: white;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*Footer styling*/
+.footer {
+    overflow: hidden;
+    background-color: #333333;
+}
+
+/*Footer child element styling*/
+.footer a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+/*Footer child element styling when hovering over*/
+.footer a:hover {
+    background-color: black;
+    color: white;
+}
+
+/*Footer child element styling when active*/
+.footer a.active {
+    background-color:#d9d9d9;
+    color: black;
+}
+
+/*Styling for back to search and back to results buttons*/
+.backtosearch {
+    padding-left: 20px;
+    text-align: left;
+    font-size: 18px;
+}
+
+/*Styling for results title*/
+.resultstitle {
+    text-align: center;
+    font-size: 40px;
+}
+
+/*Results map positioning, changed to id rather than class for live map purposes*/
+#map {
+    text-align: center;
+    width: 80%;
+    height: 600px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+/*Results map positioning, changed to id rather than class for live map purposes*/
+#map2 {
+    float: left;
+    border: 2px solid black;
+    margin: 0px 20px 20px 20px;
+    width: 600px;
+    height: 500px;
+}
+
+/*Styling for results table position*/
+.resultstable {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+/*Changing table features to allow for wanted border type*/
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+/*Styling on headers and table elements*/
+th, td {
+    padding: 15px 29px 15px 20px;
+    border-bottom: 2px solid black;
+    text-align: left;
+}
+
+/*Styling to center table on page*/
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Differing stylings for various classes when the screen is smaller than 600px.
+This is to allow for seamless use with a mobile device.*/
+@media screen and (max-width: 600px) {
+    .navbar a {
+        width: 100%;
+    }
+
+    /* changed slightly to be consistent with live map needs */
+    #map {
+        text-align: center;
+        padding: 0px 5px 5px 5px;
+    }
+}
+
+/*Text box styling for input fields*/
+.textbox {
+    width: 200px;
+}
+
+/* removed classes and added these to function with scripting of geolocation api*/
+#lati {
+    width: 250px;
+}
+/*see above*/
+#longi {
+    width: 250px;
+}
+/*see above*/
+#parkname {
+    width: 250px;
+}
+
+/*Textarea styling for input field*/
+.descbox {
+    width: 400px;
+}
+
+/*Setting width of submitt button*/
+.submitbutton {
+    width: 200px;
+}
+
+/*Parking title styling*/
+.parkingtitle {
+    font-size: 30px;
+}
+
+/*Styling for paragraph beside image*/
+.parkpara {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+/*Styling for section with image and paragraph as a whole*/
+.parkdiv {
+    height: 500px;
+    margin-bottom: 20px;
+}
+
+/*Positioning review and ratings table*/
+.reviewstable {
+    text-align: center;
+    padding-bottom: 30px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+/*Ratings table title styling*/
+.ratingstitle {
+    text-align: center;
+    font-size: 20px;
+}
+
+.locButton{
+    height: 50px;
+    width: 200px;
+    font-size: 17px;
+}
+
+/* Differing stylings for various classes when the screen is smaller than 600px.
+This is to allow for seamless use with a mobile device.*/
+@media screen and (max-width: 600px) {
+    .parkdiv {
+        clear: both;
+        height: 250px;
+        margin-bottom: 300px;
+    }
+    
+    /*changed naming to be consistent with live map needs */
+    #map2 {
+        float: none;
+        text-align: center;
+        width: 300px;
+        height: 250px;
+        margin: 0 auto;
+        margin-bottom: 15px;
+    }
+    
+    .reviewstable {
+        text-align: center;
+        padding-bottom: 30px;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        width: 325px;
+    }
+}
+
+/* Differing stylings for various classes when the screen is smaller than 600px.
+This is to allow for seamless use with a mobile device.*/
+@media screen and (max-width: 880px) {
+    .parkdiv {
+        height: auto;
+        margin-bottom: 20px;
+    }
+}
+
+/* Simple styling for the landing page index.php*/
+.home {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 25px;
+}
