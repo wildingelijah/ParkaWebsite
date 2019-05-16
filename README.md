@@ -4,11 +4,11 @@ This is one of the projects I am most proud of. It is a fully functioning parkin
 
 ## About The Project
 
-The point of the project was to develop a website that assists users with finding a parking spot or owners with uploading a parking spot. Users could search with various different input and the appropriate results (from what was stored in the SQL database) would return. I also embedded the Google Maps API within my website in order to show the results on a live map. I used HTML and CSS to ensure the pages look aesthetically pleasing as well as using JavaScript and som native HTML for the algorithms used for returning results and ensuring information was passed appropriately. The website was also connected to an SQL database which housed all the parking spaces and information needed to find them when users searched.
+The point of the project was to develop a website that assists users with finding a parking spot or owners with uploading a parking spot. Users could search with various different input and the appropriate results (from what was stored in the SQL database) would return. I also embedded the Google Maps API within my website in order to show the results on a live map. I used HTML and CSS to ensure the pages look aesthetically pleasing as well as using JavaScript and som native HTML for the algorithms used for returning results and ensuring information was passed appropriately. The website was also connected to an SQL database which housed all the parking spaces and information needed to find them when users searched. It should also be noted that the website was made such that it functioned perfectly with all forms of media (phone, tablet or computer).
 
 ## Pictures
 
-Coming soon!
+<img align="center" width="320" height="200" hspace="20" src="https://user-images.githubusercontent.com/33875832/44124681-65d25050-9ffc-11e8-8bea-dc4a1154491c.png"><img align="center" width="320" height="200" hspace="20" src="https://user-images.githubusercontent.com/33875832/44124759-ce47e348-9ffc-11e8-80f5-a95e04e283b6.png">
 
 ## Files
 
