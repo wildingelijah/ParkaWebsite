@@ -14,7 +14,7 @@ Coming soon!
 
 In order to access the file for this project please click "View on GitHub".
 
-However, these files are all the local files and hence will not have the same effect as when they were all hosted live through AWS. Hence I have included some pictures above to give an accurate representation as to the look and feel of the website. \
+However, these files are all the local files and hence will not have the same effect as when they were all hosted live through AWS. Hence I have included some pictures above to give an accurate representation as to the look and feel of the website.
 
 If you would like to know more about the code or any other part of this project please feel free to ask me questions at: **elijahwilding@gmail.com**.
 
